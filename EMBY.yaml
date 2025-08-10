@@ -194,3 +194,7 @@ payload:
   - DOMAIN-SUFFIX,chunmusic.imetyou.top
   - DOMAIN-SUFFIX,music.imetyou.top
   - DOMAIN-SUFFIX,cfmusic.imetyou.top
+
+  
+#守护网络
+  - DOMAIN-SUFFIX,lite.cn2gias.uk
